@@ -47,8 +47,3 @@
     <img src="https://skillicons.dev/icons?i=github,git,azure,docker,py,django,postgres,html,css,ts,nextjs,nodejs,netlify" />
   </a>
 </p>
-
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
-
-Last Edited on: 29/4/2023
